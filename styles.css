@@ -13,22 +13,6 @@ header h1{
     margin: auto;
 }
 
-.article_header {
-    font-size: 2rem;
-    display: flex;
-    justify-content: space-between; 
-    align-items: center; 
-    width: 100%;
-    padding: 10px;
-    box-sizing: border-box;
-}
-.date {
-    font-size: 1.5rem; 
-    color: rgb(63, 63, 63);
-    font-weight: lighter;
-    margin: 0; 
-}
-
 figure{
     margin: 0px;
 }
@@ -46,6 +30,22 @@ figcaption .hashtag{
     font-weight: bold;
     text-decoration: none;
 
+}
+
+.article_header {
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.date {
+    font-size: 1.5rem; 
+    color: rgb(63, 63, 63);
+    font-weight: lighter;
+    margin: 0; 
 }
 
 .titulopagina {
